@@ -1,0 +1,1 @@
+node server.js -> para executar o serviço
